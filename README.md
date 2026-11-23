@@ -325,6 +325,7 @@ The current iteration of the list, such as you see it today, was launched with t
 
 ## Status Lines
 
+- [DIYPets](https://github.com/smresponsibilities/diypets) - Lightweight (~7.8 MB RAM) Rust desktop mascot engine with 1-click Claude Code lifecycle hooks (`diypets hooks install claude-code`) and a native MCP server (`diypets mcp`) so pixel pets react to builds, tests, and agent completions.
 - [CCometixLine](https://github.com/Haleclipse/CCometixLine) by [Haleclipse](https://github.com/Haleclipse) - A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.  
 <img src="https://img.shields.io/github/created-at/Haleclipse/CCometixLine?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/Haleclipse/CCometixLine?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/Haleclipse/CCometixLine?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/Haleclipse/CCometixLine?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
